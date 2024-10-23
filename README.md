@@ -69,7 +69,7 @@ I’m a **Software Development Engineer** with a passion for designing and build
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sumi-sinha-33270473/)
 - **Portfolio**: [Check out my work](https://sumisinha.github.io/resume/)
-- **Email**: [sumisinha@example.com](mailto:sumisinha2008@gmail.com)
+- **Email**: [sumisinha2008@gmail.com](mailto:sumisinha2008@gmail.com)
 
 
 ### :hammer_and_wrench: Languages and Tools :
